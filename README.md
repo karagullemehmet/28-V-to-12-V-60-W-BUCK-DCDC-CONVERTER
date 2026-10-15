@@ -40,9 +40,6 @@ A 100 kHz Buck DC/DC converter designed and analyzed using MATLAB/Simulink, Sims
 ### Ideal vs Non-Ideal Bode Analysis
 ![Bode Analysis](Ideal%20vs%20Non-Ideal%20Bode.jpg)
 
-### PI Controller Comparison
-![PI Controller Comparison](Old%20PI%20vs%20New%20PI%20Candidates.jpg)
-
 ### Overcurrent Protection
 ![Overcurrent Protection](Overload%20Protection%20-%201.2%20ohm%20Load%20-%20Inductor%20Current.jpg)
 
