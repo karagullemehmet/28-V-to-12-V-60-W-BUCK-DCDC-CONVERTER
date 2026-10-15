@@ -35,3 +35,16 @@ A 100 kHz Buck DC/DC converter designed and analyzed using MATLAB/Simulink, Sims
 [View Full Technical Report](docs/Buck_Converter_Technical_Report.pdf)
 
 *Simulation-based engineering project; no physical prototype or hardware certification is claimed.*
+## Simulation Results
+
+### Ideal vs Non-Ideal Bode Analysis
+![Bode Analysis](Ideal%20vs%20Non-Ideal%20Bode.jpg)
+
+### PI Controller Comparison
+![PI Controller Comparison](Old%20PI%20vs%20New%20PI%20Candidates.jpg)
+
+### Overcurrent Protection
+![Overcurrent Protection](Overload%20Protection%20-%201.2%20ohm%20Load%20-%20Inductor%20Current.jpg)
+
+### Line Transient Response
+![Line Transient](Level5_4_LineTransient_Analysis.png)
